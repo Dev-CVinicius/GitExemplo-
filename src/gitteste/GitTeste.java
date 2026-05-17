@@ -12,5 +12,6 @@ public class GitTeste {
         System.out.println("Hello World");
     }
     
-    
+    /** Testando remoção**/
+ 
 }
